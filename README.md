@@ -1,5 +1,5 @@
 # PMLMDSpecs
-Pokemon Masters animation file specafacation
+Pokemon Masters animation file specification
 
 pointer = currentglobal offset + read value  
 string = int32 char count + chars  
