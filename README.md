@@ -45,9 +45,9 @@ format seems always 4 -> animation; 8 -> model
 "transform struct"  
 0 - 4 bytes - entity id  
 4 - int32  - pointer to "time table"  
-4 - int32 - 4 (pointer to element count?)  
-8 - int32 - count of (4bytes) elements 
-12 - float - element  
+8 - int32 - 4 (pointer to element count?)  
+12 - int32 - count of (4bytes) elements 
+16 - float - element  
 Rotation stored in quaternion (4 floats)  
 Tralslation stored in vector3 (3 floats)  
   
